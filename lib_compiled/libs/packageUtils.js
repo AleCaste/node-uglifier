@@ -6,7 +6,7 @@
 
   fs = require('fs');
 
-  UglifyJS = require('uglify-js');
+  UglifyJS = require('uglify-es');
 
   path = require('path');
 

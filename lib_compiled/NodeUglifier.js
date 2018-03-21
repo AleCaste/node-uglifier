@@ -21,7 +21,7 @@
 
   cryptoUtils = require('./libs/cryptoUtils');
 
-  UglifyJS = require('uglify-js');
+  UglifyJS = require('uglify-es');
 
   util = require("util");
 
